@@ -25,6 +25,14 @@ A lightweight workflow using:
 - Transparent logic (regex first, GPT only where needed)
 - Easy for non-engineers to operate
 
+## AppScript Properties Required for OCR
+
+VISION_SERVICE_ACCOUNT_JSON
+→ Full service account JSON (stored securely)
+
+OCR_SOURCE_FOLDER_ID
+→ Google Drive folder containing card images
+
 ## Sample Output
 | Name | Company | Email | Phone | Website | Title | Address |
 
